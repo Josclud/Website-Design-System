@@ -1,6 +1,6 @@
 .colors {
   border: 1px solid black;
-  width: 1400px;
+  width: 1300px;
   text-align: left;
   display: inline-block;
   padding: 20px 20px;
@@ -39,7 +39,7 @@
 .fonts {
   border: 1px black solid;
   margin-top: 20px;
-  width: 1400px;
+  width: 1300px;
   padding: 20px 20px;
 }
 
@@ -51,15 +51,18 @@
 .scp {
   width: 550px;
   display: inline-block;
+  font-family: 'Source Code Pro';
 }
 
 .nunito {
   width: 550px;
   display: inline-block;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 .poppins {
   display: inline-block;
+  font-family: 'Poppins', sans-serif;
 }
 
 .bold {
@@ -68,4 +71,14 @@
 
 .italic {
   font-style: italic;
+}
+
+.textStyles {
+  border: 1px solid black;
+  width: 1300px;
+  margin-top: 20px;
+  padding: 20px 20px;
+}
+.h1 {
+  text-align: left;
 }
