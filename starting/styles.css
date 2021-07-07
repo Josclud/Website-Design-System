@@ -1,19 +1,71 @@
 .colors {
   border: 1px solid black;
+  width: 1400px;
+  text-align: left;
+  display: inline-block;
+  padding: 20px 20px;
 }
 
 .coolBlue {
+  color: white;
   background-color: #2d5dcc;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
 }
 
 .pink {
   background-color: #d957d9;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
 }
 
 .mintGreen {
   background-color: #4fe0b0;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
 }
 
 .beige {
   background-color: #efd9ca;
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.fonts {
+  border: 1px black solid;
+  margin-top: 20px;
+  width: 1400px;
+  padding: 20px 20px;
+}
+
+.style {
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.scp {
+  width: 550px;
+  display: inline-block;
+}
+
+.nunito {
+  width: 550px;
+  display: inline-block;
+}
+
+.poppins {
+  display: inline-block;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
 }
